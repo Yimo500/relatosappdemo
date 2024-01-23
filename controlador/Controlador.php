@@ -28,7 +28,7 @@ class Controlador {
 
 
 	/* ************************************************************************************ *
-	 * CONSTRUCTOR  //TOMA MANGO
+	 * CONSTRUCTOR  //TOMA MANGO Toma mango en minisculas
 	 * ************************************************************************************ */
 	
 	function __construct() {
